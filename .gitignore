@@ -29,7 +29,6 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
@@ -60,7 +59,6 @@ cmake-build-*/
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -73,7 +71,6 @@ cmake-build-*/
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
@@ -155,7 +152,6 @@ StyleCopReport.xml
 *.ilk
 *.meta
 *.iobj
-*.pdb
 *.ipdb
 *.pgc
 *.pgd
