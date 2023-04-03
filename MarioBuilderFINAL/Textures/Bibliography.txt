@@ -1,0 +1,2 @@
+https://wallpaperaccess.com/super-mario-bros-x
+https://github.com/Kofybrek/Super-Mario-Bros/tree/Main/Source/Resources/Images <-- mario/enemy/coin textures
